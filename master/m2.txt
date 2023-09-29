@@ -1,0 +1,2 @@
+m2 est un fichier text
+123
